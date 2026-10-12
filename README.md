@@ -1,36 +1,118 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Uzair Shahzad — Web Developer Portfolio
 
-## Getting Started
+Welcome to my personal portfolio! 👋
 
-First, run the development server:
+I'm **Uzair Shahzad**, a web developer from Islamabad, Pakistan, passionate about building modern, responsive, and user-friendly web applications.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This portfolio showcases my skills, projects, and journey as a developer. I'm currently looking for internship opportunities and junior web developer roles where I can learn, grow, and contribute to real-world projects.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About Me
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- 💻 Passionate about Web Development
+- ⚛️ Working with React and Next.js
+- 🎨 Building responsive user interfaces with Tailwind CSS
+- 🗄️ Working with MongoDB and Mongoose
+- 🌱 Continuously learning and improving my skills
+- 🎯 Open to internships and junior web developer opportunities
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🛠️ Technologies & Tools
 
-## Learn More
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- Next.js
+- Tailwind CSS
+- Node.js
+- MongoDB
+- Mongoose
+- Git & GitHub
+- Cloudinary
+- Clerk Authentication
 
-To learn more about Next.js, take a look at the following resources:
+## 💼 Featured Projects
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. Libas — Clothing E-commerce Website
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+A clothing e-commerce application featuring product management, customer authentication, shopping cart, checkout, and order tracking.
 
-## Deploy on Vercel
+- **Tech Stack:** Next.js, MongoDB, Mongoose, Cloudinary, Clerk, Tailwind CSS
+- **Live Demo:** [View Website](https://libas-eta.vercel.app/)
+- **GitHub:** [View Source Code](https://github.com/uzairshahzadpak/libas)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 2. Topic Manager
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+A CRUD application that allows users to create, view, edit, and delete topics with descriptions.
+
+- **Tech Stack:** Next.js, MongoDB, Mongoose, Tailwind CSS
+- **Live Demo:** [View Website](https://topic-manager.vercel.app/)
+- **GitHub:** [View Source Code](https://github.com/uzairshahzadpak/Topic-Manager)
+
+### 3. Sweet Cravings
+
+A dessert website designed to showcase sweet treats with a shopping cart experience.
+
+- **Tech Stack:** Next.js, React, Tailwind CSS
+- **Live Demo:** [View Website](https://sweet-cravings-eight.vercel.app/)
+- **GitHub:** [View Source Code](https://github.com/uzairshahzadpak/Sweet-Cravings-)
+
+### 4. Admission Form
+
+An admission form application designed to collect and manage student information.
+
+- **Tech Stack:** Next.js, MongoDB, Mongoose, Cloudinary
+- **Live Demo:** [View Website](https://admission-form-phi-coral.vercel.app/)
+- **GitHub:** [View Source Code](https://github.com/uzairshahzadpak/admission-form)
+
+## ✨ Portfolio Features
+
+- Responsive design for mobile, tablet, and desktop
+- Modern dark-themed user interface
+- Animated hero section and interactive elements
+- Projects showcase
+- Skills and About sections
+- Contact section
+- GitHub and LinkedIn links
+
+## ⚙️ Run Locally
+
+To run this project on your local machine:
+
+1. Clone the repository:
+
+   ```bash
+   git clone YOUR_PORTFOLIO_REPOSITORY_URL
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd YOUR_PORTFOLIO_FOLDER
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+5. Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 📬 Connect With Me
+
+- **GitHub:** [@uzairshahzadpak](https://github.com/uzairshahzadpak)
+- **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/)
+
+For internship opportunities, collaborations, or web development projects, feel free to connect with me.
+
+---
+
+⭐ Thank you for visiting my portfolio!
+
+**Uzair Shahzad | Web Developer**
